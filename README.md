@@ -26,7 +26,8 @@ A key feature is the promotion of user payments using a custom SPL token through
    - Ensure the UI supports payments using the SPL token created in Step 1.
    - Test minting by transferring or minting the SPL token to a Phantom account and attempting to mint on the website.
   
-     
+### Authors
+Esther Breath @metacraftersio   
   
   ### License
 This project operates under the MIT License. Refer to the LICENSE.md file for comprehensive details.
